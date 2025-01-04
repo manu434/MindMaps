@@ -16,3 +16,5 @@ https://xmind.ai/share/bMBhZGrh?xid=gNi6V7a1
 https://xmind.ai/share/xNCcC9Jc?xid=ZvPenoyz
 # SQL Joins
 https://xmind.ai/share/nkUUzQVd?xid=qHShOk5y
+# SQL Constraints
+https://xmind.ai/share/adSHTX0Z?xid=T8EJtdQ2
