@@ -6,3 +6,5 @@ https://xmind.ai/share/izDw6La1?xid=rAKxjkaL
 https://xmind.ai/share/VuuIG2q6?xid=gUWLV07T
 # DML Roadmap
 https://xmind.ai/share/T4DWYAo6?xid=nyt8fOP8
+# DDL Roadmap
+https://xmind.ai/share/WR5k4MmL?xid=9I0tMTIT
