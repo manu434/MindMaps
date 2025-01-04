@@ -12,3 +12,5 @@ https://xmind.ai/share/WR5k4MmL?xid=9I0tMTIT
 https://xmind.ai/share/V4gbgB5Z?xid=hQO0CiQu
 # TCL Roadmap
 https://xmind.ai/share/bMBhZGrh?xid=gNi6V7a1
+# Aggregate Functions
+https://xmind.ai/share/xNCcC9Jc?xid=ZvPenoyz
