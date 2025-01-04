@@ -14,3 +14,5 @@ https://xmind.ai/share/V4gbgB5Z?xid=hQO0CiQu
 https://xmind.ai/share/bMBhZGrh?xid=gNi6V7a1
 # Aggregate Functions
 https://xmind.ai/share/xNCcC9Jc?xid=ZvPenoyz
+# SQL Joins
+https://xmind.ai/share/nkUUzQVd?xid=qHShOk5y
