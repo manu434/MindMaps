@@ -20,3 +20,5 @@ https://xmind.ai/share/nkUUzQVd?xid=qHShOk5y
 https://xmind.ai/share/adSHTX0Z?xid=T8EJtdQ2
 # Databse & Objects (VIEW|STORED PROCEDURE)
 https://xmind.ai/share/i4VpUrcY?xid=YKHwD1pY
+# SQl aggregation and grouping
+https://xmind.ai/share/MRdjBe5F?xid=hAINVLbl
