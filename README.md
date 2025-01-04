@@ -18,3 +18,5 @@ https://xmind.ai/share/xNCcC9Jc?xid=ZvPenoyz
 https://xmind.ai/share/nkUUzQVd?xid=qHShOk5y
 # SQL Constraints
 https://xmind.ai/share/adSHTX0Z?xid=T8EJtdQ2
+# Databse & Objects (VIEW|STORED PROCEDURE)
+https://xmind.ai/share/i4VpUrcY?xid=YKHwD1pY
