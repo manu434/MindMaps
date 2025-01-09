@@ -1,4 +1,4 @@
-# MindMaps
+# SQL:
 Study hack mindmaps for each topic
 # SQL RoadMap
 https://xmind.ai/share/izDw6La1?xid=rAKxjkaL
@@ -22,3 +22,6 @@ https://xmind.ai/share/adSHTX0Z?xid=T8EJtdQ2
 https://xmind.ai/share/i4VpUrcY?xid=YKHwD1pY
 # SQl aggregation and grouping
 https://xmind.ai/share/MRdjBe5F?xid=hAINVLbl
+# JAVA:
+# Java Features
+https://xmind.ai/share/t8R9TKg8?xid=rCzzzNln
