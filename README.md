@@ -25,3 +25,5 @@ https://xmind.ai/share/MRdjBe5F?xid=hAINVLbl
 # JAVA:
 # Java Features
 https://xmind.ai/share/t8R9TKg8?xid=rCzzzNln
+# Operator in java
+https://xmind.ai/share/eIHGwtww?xid=DwUkdMgp
