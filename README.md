@@ -25,5 +25,7 @@ https://xmind.ai/share/MRdjBe5F?xid=hAINVLbl
 # JAVA:
 # Java Features
 https://xmind.ai/share/t8R9TKg8?xid=rCzzzNln
-# Operator in java
+# Operator in Java
 https://xmind.ai/share/eIHGwtww?xid=DwUkdMgp
+# Data types in Java
+https://xmind.ai/share/UfbQBx3m?xid=TPRMvX88
