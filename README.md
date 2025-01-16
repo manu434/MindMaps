@@ -29,3 +29,5 @@ https://xmind.ai/share/t8R9TKg8?xid=rCzzzNln
 https://xmind.ai/share/eIHGwtww?xid=DwUkdMgp
 # Data types in Java
 https://xmind.ai/share/UfbQBx3m?xid=TPRMvX88
+# Main Method()
+https://xmind.ai/share/GICtfVMV?xid=0YmIFhGT
