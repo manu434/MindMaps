@@ -33,3 +33,5 @@ https://xmind.ai/share/UfbQBx3m?xid=TPRMvX88
 https://xmind.ai/share/GICtfVMV?xid=0YmIFhGT
 # Control Statements:
 https://xmind.ai/share/x9Yd59d9?xid=0bcIs7vu
+# Scanner Class
+https://xmind.ai/share/Hji4PDRo?xid=HqUStKlf
