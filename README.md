@@ -35,5 +35,7 @@ https://xmind.ai/share/GICtfVMV?xid=0YmIFhGT
 https://xmind.ai/share/x9Yd59d9?xid=0bcIs7vu
 # Scanner Class
 https://xmind.ai/share/Hji4PDRo?xid=HqUStKlf
-# Array in java
+# Array in Java
 https://xmind.ai/share/F7VawYnr?xid=RQmdg6G2
+# 1D ARRAY
+https://xmind.ai/share/FnUVUlgo?xid=0uc2x9LY
