@@ -39,3 +39,5 @@ https://xmind.ai/share/Hji4PDRo?xid=HqUStKlf
 https://xmind.ai/share/F7VawYnr?xid=RQmdg6G2
 # 1D ARRAY
 https://xmind.ai/share/FnUVUlgo?xid=0uc2x9LY
+# 2D ARRAY
+https://xmind.ai/share/3FNQJCqG?xid=FN7boJIV
