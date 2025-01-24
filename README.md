@@ -43,3 +43,5 @@ https://xmind.ai/share/FnUVUlgo?xid=0uc2x9LY
 https://xmind.ai/share/3FNQJCqG?xid=FN7boJIV
 # JAVA MEMORY
 https://xmind.ai/share/IE8bW03y?xid=JCGUf9UF
+# String Functions
+https://xmind.ai/share/cAkT6MYA?xid=kHonfdVb
