@@ -47,3 +47,5 @@ https://xmind.ai/share/IE8bW03y?xid=JCGUf9UF
 https://xmind.ai/share/cAkT6MYA?xid=kHonfdVb
 # Class, Object, method Syntax
 https://xmind.ai/share/47KC2Maf?xid=BfI5FIqk
+# Argument and Parameter
+https://xmind.ai/share/PLS5Yvkp?xid=e72ZJtw4
