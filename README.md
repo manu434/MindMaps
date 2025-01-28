@@ -45,3 +45,5 @@ https://xmind.ai/share/3FNQJCqG?xid=FN7boJIV
 https://xmind.ai/share/IE8bW03y?xid=JCGUf9UF
 # String Functions
 https://xmind.ai/share/cAkT6MYA?xid=kHonfdVb
+# Class, Object, method Syntax
+https://xmind.ai/share/47KC2Maf?xid=BfI5FIqk
