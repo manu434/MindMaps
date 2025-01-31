@@ -49,3 +49,5 @@ https://xmind.ai/share/cAkT6MYA?xid=kHonfdVb
 https://xmind.ai/share/47KC2Maf?xid=BfI5FIqk
 # Argument and Parameter
 https://xmind.ai/share/PLS5Yvkp?xid=e72ZJtw4
+# Variable initialization in Java
+https://xmind.ai/share/2WEJGuqh?xid=uj29NbOy
