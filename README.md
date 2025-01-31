@@ -51,3 +51,5 @@ https://xmind.ai/share/47KC2Maf?xid=BfI5FIqk
 https://xmind.ai/share/PLS5Yvkp?xid=e72ZJtw4
 # Variable initialization in Java
 https://xmind.ai/share/2WEJGuqh?xid=uj29NbOy
+# Inheritance
+https://xmind.ai/share/aYuaAKyT?xid=WAwypJnl
