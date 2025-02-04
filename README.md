@@ -53,3 +53,6 @@ https://xmind.ai/share/PLS5Yvkp?xid=e72ZJtw4
 https://xmind.ai/share/2WEJGuqh?xid=uj29NbOy
 # Inheritance
 https://xmind.ai/share/aYuaAKyT?xid=WAwypJnl
+# Terms used in Inheritance
+https://xmind.ai/share/wmraXziE?xid=TDo0wbF6
+# 
