@@ -57,4 +57,6 @@ https://xmind.ai/share/aYuaAKyT?xid=WAwypJnl
 https://xmind.ai/share/wmraXziE?xid=TDo0wbF6
 # Polymorphism
 https://xmind.ai/share/hLu1vhBt?xid=feUXjBda
-# 
+# Access Modifier
+https://xmind.ai/share/wdrTKnoX?xid=t5QNDyru
+
