@@ -59,4 +59,5 @@ https://xmind.ai/share/wmraXziE?xid=TDo0wbF6
 https://xmind.ai/share/hLu1vhBt?xid=feUXjBda
 # Access Modifier
 https://xmind.ai/share/wdrTKnoX?xid=t5QNDyru
-
+# Abstraction
+https://xmind.ai/share/NRRAWwcS?xid=SOXgTzFH
